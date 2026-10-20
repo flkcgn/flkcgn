@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Falk
 
-<!--
-**flkcgn/flkcgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend most of my time making systems agree on data they were never meant to share. EDI, ETL, APIs and workflow orchestration with n8n.
 
-Here are some ideas to get you started:
+On the side I build ControlDeck, a learning project where a few AI agents work together on a real codebase. Rule of thumb: deterministic pipelines first, LLMs only where they earn their place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+
+- Pipelines that fail loudly and retry safely: idempotency, backoff, clear error paths
+- Data formats that actually get used: EDIFACT, XML, JSON, CSV
+- Agentic coding with real guardrails, reviews and tests
+
+## Tools
+
+`Python` `SQL` `TypeScript` `n8n` `REST` `Git` `Linux`
+
+## Elsewhere
+
+More thoughts on X: [@flkcgn](https://x.com/flkcgn)
